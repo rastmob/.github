@@ -1,6 +1,6 @@
 # Welcome to Rast Mobile's GitHub! 👋
 
-At **Rast Mobile** ([@rastmob](https://github.com/rastmob)), we are more than just a software development company. We combine expert consultancy with development services to build innovative, tailor-made solutions that empower businesses in **E-commerce**, **Finance**, **Construction**, and **Automotive** industries. Whether it's a complex enterprise solution or a sleek mobile app, we make development simple and effective.
+At **Rast Mobile** ([@rastmob](https://github.com/rastmob)), we are more than just a software development company. We combine expert consultancy with development services to build innovative, tailor-made solutions that empower businesses in **E-commerce**, **Telecom**, **Finance**, **Construction**, and **Automotive** industries. Whether it's a complex enterprise solution or a sleek mobile app, we make development simple and effective.
 
 🌐 **Website:** [Rast Mobile](https://rastmobile.com/)  
 ✉️ **Contact Us:** [contact@rastmobile.com](mailto:contact@rastmobile.com)  
