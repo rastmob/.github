@@ -13,7 +13,7 @@ We specialize in building web and mobile applications using cutting-edge technol
 - **Backend:** Node.js, PHP, Java
 - **Database:** PostgreSQL, MongoDB
 - **Development Stacks:** MEAN/MERN Stack
-- **Industry Expertise:** E-commerce, Finance, Construction, Automotive
+- **Industry Expertise:** E-commerce, Telecom, Finance, Construction, Automotive
 
 ### 🌱 Our Services:
 - **Software Development:** Full-cycle development from planning to launch.
