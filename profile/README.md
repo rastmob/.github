@@ -20,6 +20,23 @@ We specialize in building web and mobile applications using cutting-edge technol
 - **Consultancy:** Guiding your projects with expert advice to achieve the best results.
 - **Mobile App Development:** Creating engaging and high-performing apps for Android and iOS.
 
+## 🌍 Our Products
+
+### [Word Ninja: AI-Supported English Teacher](https://getwordninja.com/)
+Learn English with AI by playing interactive word games and engaging in video chats with other users. A fun and innovative way to improve your English skills!
+
+---
+
+### [E-Commerce Products](https://rastmobile.com/en/products/ecommerce-products)
+Deliver powerful e-commerce solutions that meet the needs of modern businesses. From intuitive UI/UX to backend integrations, we offer everything for a successful e-commerce platform.
+
+---
+
+### [Jury and Competition Software](https://rastmobile.com/en/products/jury-competition-software)
+Manage jury-led events and competitions with ease using our end-to-end software solution. Perfect for simplifying the entire process from registration to final judgments.
+
+## 💼 Connect with Us
+
 ## 🚀 Featured Projects
 
 ### [Comment Like Figma on Web](https://github.com/rastmob/comment-like-figma-on-web)
@@ -49,22 +66,7 @@ We specialize in building web and mobile applications using cutting-edge technol
 > A lightweight wrapper for the native Fetch API, bringing Axios-like functionality to Next.js and other JavaScript projects.
 > [NPM Package](https://www.npmjs.com/package/fetch-axios-wrapper)
 
-## 🌍 Our Products
 
-### [Word Ninja: AI-Supported English Teacher](https://getwordninja.com/)
-Learn English with AI by playing interactive word games and engaging in video chats with other users. A fun and innovative way to improve your English skills!
-
----
-
-### [E-Commerce Products](https://rastmobile.com/en/products/ecommerce-products)
-Deliver powerful e-commerce solutions that meet the needs of modern businesses. From intuitive UI/UX to backend integrations, we offer everything for a successful e-commerce platform.
-
----
-
-### [Jury and Competition Software](https://rastmobile.com/en/products/jury-competition-software)
-Manage jury-led events and competitions with ease using our end-to-end software solution. Perfect for simplifying the entire process from registration to final judgments.
-
-## 💼 Connect with Us
 - [LinkedIn](https://www.linkedin.com/company/rastmobile/)
 - [Instagram](https://www.instagram.com/mobilerast/)
 - [Twitter](https://twitter.com/rastmobile)
