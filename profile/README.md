@@ -4,16 +4,16 @@
 
 [Rast Mobile](https://www.rastmobile.com) is a software development and consultancy team based in Istanbul, Türkiye.
 
-We build and maintain digital products used in real business operations — from mobile applications and web platforms to backend systems, enterprise integrations and AI-powered tools.
+We build and maintain digital products used in real business operations, from mobile applications and web platforms to backend systems, enterprise integrations and AI-powered tools.
 
 ## What We Build
 
-* **Mobile Applications** — iOS and Android apps with Flutter, React Native and native integrations
-* **Web Applications** — operational platforms, customer portals, dashboards and business applications
-* **Backend & Integrations** — APIs, CRM/ERP integrations and enterprise system connections
-* **Dynamics 365 & Dataverse** — mobile apps, portals and integration layers around Microsoft business systems
-* **Enterprise AI & LLM Solutions** — private AI, RAG, local models and business-data integrations
-* **DevOps & Software Consultancy** — architecture, CI/CD, cloud, performance and existing codebase support
+* **Mobile Applications** - iOS and Android apps with Flutter, React Native and native integrations
+* **Web Applications** - operational platforms, customer portals, dashboards and business applications
+* **Backend & Integrations** - APIs, CRM/ERP integrations and enterprise system connections
+* **Dynamics 365 & Dataverse** - mobile apps, portals and integration layers around Microsoft business systems
+* **Enterprise AI & LLM Solutions** - private AI, RAG, local models and business-data integrations
+* **DevOps & Software Consultancy** - architecture, CI/CD, cloud, performance and existing codebase support
 
 → [Explore our services](https://www.rastmobile.com/en/services)
 
@@ -55,7 +55,7 @@ Our teams work across modern mobile, frontend, backend and infrastructure techno
 
 `Flutter` · `React Native` · `Angular` · `React` · `Node.js` · `NestJS` · `Java` · `Spring Boot` · `PHP` · `Laravel` · `Docker` · `CI/CD`
 
-We work on both **new products** and **existing production systems** — from architecture and implementation to integration, testing, release and long-term maintenance.
+We work on both **new products** and **existing production systems** - from architecture and implementation to integration, testing, release and long-term maintenance.
 
 ## Work With Us
 
